@@ -1,0 +1,4 @@
+com/example/entity/User.class
+com/example/api/UserApi.class
+com/example/repository/UserRepository.class
+com/example/Application.class

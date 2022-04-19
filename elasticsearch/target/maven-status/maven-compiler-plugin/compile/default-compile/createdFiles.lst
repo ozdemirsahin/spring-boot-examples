@@ -1,0 +1,4 @@
+com/example/entity/Personal.class
+com/example/repository/PersonalRepository.class
+com/example/api/PersonalController.class
+com/example/Application.class
